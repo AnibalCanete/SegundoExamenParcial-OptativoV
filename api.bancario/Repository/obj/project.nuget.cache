@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VMa/RanM0NaI3lPLJzECCg9kLyWnEHMtQ/b+WEfvud5msq6iJ8mhXaTYzUwJZlQrCLDQ6nK/TE+jcHBBW/xxQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\api.bancario\\Repository\\Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
